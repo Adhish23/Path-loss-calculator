@@ -1,0 +1,2 @@
+# Path-loss-calculator-Hata-model-and-COST231-model
+Path loss is a major component in the analysis and design of the link budget of a telecommunication system.  Path loss may be due to many effects, such as free-space loss, refraction, diffraction, reflection, aperture-medium coupling loss, and absorption. Path loss is also influenced by terrain contours, environment (urban or rural, vegetation and foliage), propagation medium (dry or moist air), the distance between the transmitter and the receiver, and the height and location of antennas.
